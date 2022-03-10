@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.one{
+    text-align: center;
+}
+.btn{
+    border-radius: 20px;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+.nav{
+    background-color: black;
+}
+.two col{
+    justify-content: center;
+}
+.menu{
+    background-image: url(./img/map_bg.png);
+}
+.fond{
+    margin: 30%;
+    margin-top: -25%;
+    margin-left: 40%;
+}
+.quatre{
+    background-color: black;
+}
